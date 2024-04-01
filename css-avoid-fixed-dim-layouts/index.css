@@ -3,8 +3,7 @@ html {
 }
 
 .wrapper {
-    /* height: fit-content; */
-    height: 200px;
+    height: fit-content;
     background-color: rgb(0, 213, 255);
-    color: white;
+    color: black;
 }
